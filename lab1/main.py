@@ -39,7 +39,7 @@ class Flat:
 class Toy:
     def __init__(self, color: str, size: str, name: str):
         """
-               Создание и подготовка к работе объекта ваза
+               Создание и подготовка к работе объекта игрушка
                :param color: цвет игрушки
                :param size: размер игрушки
                :param name: имя игрушки
